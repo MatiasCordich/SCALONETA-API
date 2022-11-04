@@ -1,9 +1,9 @@
 const express = require('express')
 const app = express()
 
-const { loadPlayers, loadTeam, loadAll } = require("./controllers/db")
-
 const jugadoresData = require("./db/jugadores.json")
+const seleccionData = require("./db/seleccion.json")
+const allData = require("./db/all.json")
 
 const port = 8800
 
@@ -17,11 +17,11 @@ app.get('/jugadores', (req, res) => {
 })
 
 app.get('/seleccion', (req, res) => {
-    res.send(loadTeam())
+    res.send(seleccionData)
 })
 
 app.get('/all', (req, res) => {
-  res.send(loadAll())
+  res.send(allData)
 })
 
 app.listen(port, () => {
