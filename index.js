@@ -3,6 +3,8 @@ const app = express()
 
 const { loadPlayers, loadTeam, loadAll } = require("./controllers/db")
 
+const jugadoresData = require("./db/jugadores.json")
+
 const port = 8800
 
 
@@ -11,7 +13,7 @@ app.get('/', (req,res) => {
 })
 
 app.get('/jugadores', (req, res) => {
-  res.send(loadPlayers())
+  res.send(JSON.stringify(jugadoresData))
 })
 
 app.get('/seleccion', (req, res) => {
