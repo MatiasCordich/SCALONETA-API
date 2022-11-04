@@ -13,7 +13,7 @@ app.get('/', (req,res) => {
 })
 
 app.get('/jugadores', (req, res) => {
-  res.send(JSON.stringify(jugadoresData))
+  res.send(jugadoresData)
 })
 
 app.get('/seleccion', (req, res) => {
