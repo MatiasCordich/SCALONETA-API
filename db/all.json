@@ -1,0 +1,87 @@
+[
+    [
+        {
+            "id": 1,
+            "nombre": "Lionel Messi",
+            "fecha-nacimiento": "24-6-1987",
+            "equipo-actual": "PSG",
+            "posicion": "delantero",
+            "dorsal": 10,
+            "debut": 2005,
+            "stats-fisico": {
+                "peso": 72,
+                "altura": 1.70
+            }
+        }
+    ],
+    {
+        "nombre": "Seleccion de Futbol de Argentina",
+        "pais": "Argentina",
+        "federacion": "AFA",
+        "confederacion": "CONMEBOL",
+        "entrenador": "Lionel Scaloni",
+        "capitan": "Lionel Messi",
+        "goleador": {
+            "nombre": "Lionel Messi",
+            "goles": 90
+        },
+        "partidos": [
+            {"totales": 1043},
+            {"ganados": 571},
+            {"empatados": 258},
+            {"perdidos": 215},
+            {"goles": [
+                {"a favor": 1966},
+                {"en contra": 1071},
+                {"diferencia": 896}
+            ]}  
+           ],
+        "mas participaciones": {
+            "nombre":"Lionel Messi",
+            "partidos": 164
+        },
+        "titulos": 21,
+        "mundial": {
+            "participaciones": 18,
+            "ganados": [
+                1978,
+                1986
+            ]
+        },
+        "copa-america": {
+            "participaciones": 43,
+            "ganados": [
+                1921,
+                1925,
+                1927,
+                1929,
+                1937,
+                1941,
+                1945,
+                1946,
+                1947,
+                1955,
+                1957,
+                1959,
+                1991,
+                1993,
+                2021
+            ]
+        },
+        "campeones conmebol-uefa": {
+            "participaciones": 2,
+            "ganados": [
+                1993,
+                2022
+            ]
+        },
+        "panamericano de futbol": {
+            "participaciones": 2,
+            "ganados": 1960
+        },
+        "confederaciones": {
+            "participaciones": 3,
+            "ganados": 1992
+        }
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "fecha-nacimiento": "24-6-1987",
+        "equipo-actual": "PSG",
+        "posicion": "delantero",
+        "dorsal": 10,
+        "debut": 2005,
+        "stats-fisico": {
+            "peso": 72,
+            "altura": 1.70
+        }
+    }
+]
