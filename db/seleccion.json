@@ -4,7 +4,12 @@
         "pais": "Argentina",
         "federacion": "AFA",
         "confederacion": "CONMEBOL",
-        "entrenador": "Lionel Scaloni",
+        "entrenador": {
+            "nombre": "Lionel Scaloni",
+            "nacimiento": "16-05-1978",
+            "edad": 44,
+            "altura": 1.82
+        },
         "capitan": "Lionel Messi",
         "goleador": {
             "nombre": "Lionel Messi",
