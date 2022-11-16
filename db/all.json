@@ -147,7 +147,7 @@
             "edad":24,
             "equipo-actual": "Manchester United",
             "posicion": "Defensor",
-            "dorsal": 16,
+            "dorsal": 25,
             "debut": 2020,
             "stats-fisico": {
                 "peso": 75,
@@ -245,7 +245,7 @@
             "edad":23,
             "equipo-actual": "Brighton & Hove Albion",
             "posicion": "Mediocampista",
-            "dorsal": 15,
+            "dorsal": 20,
             "debut": 2019,
             "stats-fisico": {
                 "peso": 72,
@@ -259,7 +259,7 @@
             "edad":34,
             "equipo-actual": "Sevilla F.C",
             "posicion": "Mediocampista",
-            "dorsal": 20,
+            "dorsal": 17,
             "debut": 2017,
             "stats-fisico": {
                 "peso": 68,
@@ -301,7 +301,7 @@
             "edad": 28,
             "equipo-actual": "Inter de Milán",
             "posicion": "Delantero",
-            "dorsal": 17,
+            "dorsal": 16,
             "debut": 2017,
             "stats-fisico": {
                 "peso": 77,
@@ -329,7 +329,7 @@
             "edad":24,
             "equipo-actual": "ACF Fiorentina",
             "posicion": "Delantero",
-            "dorsal": 25,
+            "dorsal": 15,
             "debut": 2019,
             "stats-fisico": {
                 "peso": 72,
