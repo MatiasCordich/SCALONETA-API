@@ -16,14 +16,14 @@
             "goles": 90
         },
         "partidos": [
-            {"totales": 1043},
-            {"ganados": 571},
+            {"totales": 1044},
+            {"ganados": 572},
             {"empatados": 258},
             {"perdidos": 215},
             {"goles": [
-                {"a favor": 1966},
+                {"a favor": 1971},
                 {"en contra": 1071},
-                {"diferencia": 896}
+                {"diferencia": 900}
             ]}  
            ],
         "mas participaciones": {
