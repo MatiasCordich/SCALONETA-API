@@ -296,16 +296,16 @@
         },
         {
             "id": 22,
-            "name": "Joaquín Correa",
-            "fecha-nacimiento": "13-08-1994",
-            "edad": 28,
-            "equipo-actual": "Inter de Milán",
+            "name": "Ángel Correa",
+            "fecha-nacimiento": "09-03-1995",
+            "edad": 27,
+            "equipo-actual": "Atlético Madrid",
             "posicion": "Delantero",
-            "dorsal": 16,
-            "debut": 2017,
+            "dorsal": 15,
+            "debut": 5,
             "stats-fisico": {
-                "peso": 77,
-                "altura": 1.88
+                "peso": 70,
+                "altura": 1.71
             }
         },
         {
@@ -324,16 +324,16 @@
         },
         {
             "id": 24,
-            "name": "Nicolás González",
-            "fecha-nacimiento": "06-04-1998",
-            "edad":24,
-            "equipo-actual": "ACF Fiorentina",
+            "name": "Thiago Almada",
+            "fecha-nacimiento": "04-04-2001",
+            "edad":21,
+            "equipo-actual": "Alanta United",
             "posicion": "Delantero",
-            "dorsal": 15,
-            "debut": 2019,
+            "dorsal": 16,
+            "debut": 2022,
             "stats-fisico": {
-                "peso": 72,
-                "altura": 1.80
+                "peso": 63,
+                "altura": 1.71
             }
         },
         {
