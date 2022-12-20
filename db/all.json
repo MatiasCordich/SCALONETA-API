@@ -370,33 +370,39 @@
         "pais": "Argentina",
         "federacion": "AFA",
         "confederacion": "CONMEBOL",
-        "entrenador": "Lionel Scaloni",
+        "entrenador": {
+            "nombre": "Lionel Scaloni",
+            "nacimiento": "16-05-1978",
+            "edad": 44,
+            "altura": 1.82
+        },
         "capitan": "Lionel Messi",
         "goleador": {
             "nombre": "Lionel Messi",
-            "goles": 90
+            "goles": 98
         },
         "partidos": [
-            {"totales": 1043},
-            {"ganados": 571},
-            {"empatados": 258},
-            {"perdidos": 215},
+            {"totales": 1052},
+            {"ganados": 576},
+            {"empatados": 260},
+            {"perdidos": 216},
             {"goles": [
-                {"a favor": 1966},
-                {"en contra": 1071},
-                {"diferencia": 896}
+                {"a favor": 1986},
+                {"en contra": 1079},
+                {"diferencia": 906}
             ]}  
            ],
         "mas participaciones": {
             "nombre":"Lionel Messi",
-            "partidos": 164
+            "partidos": 172
         },
-        "titulos": 21,
+        "titulos": 22,
         "mundial": {
             "participaciones": 18,
             "ganados": [
                 1978,
-                1986
+                1986,
+                2022
             ]
         },
         "copa-america": {

@@ -13,29 +13,30 @@
         "capitan": "Lionel Messi",
         "goleador": {
             "nombre": "Lionel Messi",
-            "goles": 90
+            "goles": 98
         },
         "partidos": [
-            {"totales": 1044},
-            {"ganados": 572},
-            {"empatados": 258},
-            {"perdidos": 215},
+            {"totales": 1052},
+            {"ganados": 576},
+            {"empatados": 260},
+            {"perdidos": 216},
             {"goles": [
-                {"a favor": 1971},
-                {"en contra": 1071},
-                {"diferencia": 900}
+                {"a favor": 1986},
+                {"en contra": 1079},
+                {"diferencia": 906}
             ]}  
            ],
         "mas participaciones": {
             "nombre":"Lionel Messi",
-            "partidos": 164
+            "partidos": 172
         },
-        "titulos": 21,
+        "titulos": 22,
         "mundial": {
             "participaciones": 18,
             "ganados": [
                 1978,
-                1986
+                1986,
+                2022
             ]
         },
         "copa-america": {
